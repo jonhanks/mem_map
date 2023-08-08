@@ -1,0 +1,12 @@
+/target
+*.so
+*.so.*
+*.dll
+*.a
+*.la
+*.o
+*~
+*.bak
+*.pyc
+*.pyo
+.idea
